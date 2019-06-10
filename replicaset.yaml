@@ -5,11 +5,8 @@ metadata:
 spec:
   replicas: 2
   selector:
-    matchExpressions:
-      - key: app
-        operator: In
-        values:
-          - k8s-app
+    matchLabels:
+      app: k8s-app
   template:
     metadata:
       name: k8s-app
