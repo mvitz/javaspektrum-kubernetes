@@ -17,3 +17,6 @@ spec:
         - name: k8s-app
           image: k8s-app
           imagePullPolicy: Never
+          ports:
+            - name: http
+              containerPort: 8080
