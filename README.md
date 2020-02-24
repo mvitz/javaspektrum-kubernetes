@@ -5,6 +5,9 @@
 These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum.de/) article
 "Der Praktiker: Einführung in ReplicaSet und Service - Schleusen auf im Kubernetes-Cluster".
 
+You can read it online [here](https://www.innoq.com/de/articles/2020/02/kubernetes-replicaset-service/)
+or download as PDF [here](http://www.sigs.de/publications/download/Artikel/vitz_JS_04_19_lklo.pdf).
+
 
 ## License
 
